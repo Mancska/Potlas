@@ -1,0 +1,19 @@
+{
+  "doboz": [
+    {
+      "name": "John",
+      "prize": "70$",
+      "kupa": "kupa.jpg"
+    },
+    {
+      "name": "Anna",
+      "prize": "50$",
+      "kupa": "kupa2.jpg"
+    },
+    {
+      "name": "Peter",
+      "prize": "90$",
+      "kupa": "kupa3.jpg"
+    }
+  ]
+}
